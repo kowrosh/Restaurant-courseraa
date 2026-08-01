@@ -3,6 +3,7 @@
 A responsive and dynamic restaurant website built with HTML, CSS, Bootstrap, and JavaScript.
 
 This project was developed as part of the **HTML, CSS, and JavaScript for Web Developers** course on Coursera. It demonstrates responsive web design, DOM manipulation, AJAX requests, and dynamic content rendering.
+
 https://kowrosh.github.io/Restaurant-courseraa/
 
 ## Features
